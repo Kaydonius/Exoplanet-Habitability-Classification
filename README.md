@@ -33,4 +33,4 @@ pip install -r requirements.txt
 jupyter notebook exoplanet_analysis.ipynb
 ```
 
-Data: [table name] exported from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) on October 5, 2025. Save it as `[filename].csv` in the repo root.
+Data: exoplanet_df exported from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) on October 5, 2025. Save it as `exoplanet_data.csv` in the repo root.
